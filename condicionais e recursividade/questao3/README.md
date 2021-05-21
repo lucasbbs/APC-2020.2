@@ -1,4 +1,4 @@
-#Existe realidade?
+# Existe realidade?
 Implemente a função chamada realidade que imprime se uma equação de segundo grau  _a_ _x_ ²+ _b_ _x_ + _c_ = 0 tem raízes reais ou complexas. A função deve receber os parâmetros _a_, _b_, e _c_ que são números inteiros. 
 
 * Entrada
