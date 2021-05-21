@@ -12,6 +12,7 @@ Para cada número, imprima sua representação em binário no formato 0b[numero 
 Atenção, a criação de uma função com o nome determinado pelo enunciado é fundamental para a prática do aluno e o Moodle irá descontar pontos, por esse critério, caso a criação não tenha sido feita corretamente (sendo case-sensitive o nome da função).
 
 * For example:
+
 Input|Expected
 -----|--------
 1|0b1
