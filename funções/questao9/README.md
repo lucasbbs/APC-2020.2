@@ -1,10 +1,5 @@
 # Comprimento de Papel
 
-| column 1 | column 2 |
-|:----------:|----------|
-| value | value 1<br>value 2 |
-| value | value 1<br>value 2 |
-
 No ano passado, Dr. Mike, um profissional renomado na área de Design, está planejando revolucionar a indústria de produção de papel com uma nova invenção de tamanhos de papel! O problema é que Dr. Mike sofre da síndrome do impostor e não conseguiu definir a largura do seu novo formato de papel.
 
 Esse é o seu momento de brilhar! Ajude o Dr. Mike com sugestões de comprimento de papel, criando um Programa para imprimir como o papel ficaria caso tivesse a opção de comprimento escolhida por você, junto da largura escolhida pelo Dr. Mike.  Para isso você deve implementar uma função chamada print_rectangle que recebe esse valor e imprime o papel.
