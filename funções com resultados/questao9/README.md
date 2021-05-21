@@ -6,7 +6,7 @@ Dado um inteiro **_x_** escreva uma função count_0s(X) que retorne quantos dig
 O único parâmetro da sua função será um inteiro **_x_** (**_x_ ≥ 0**).
 
 * Saída
-A função deve retornar o número de dígitos 0 que existem na representação binária de X.
+A função deve retornar o número de dígitos 0 que existem na representação binária de **_x_**.
 
 * Observações
 Submeta somente o que foi solicitado.
