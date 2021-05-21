@@ -6,7 +6,7 @@ Recentemente, Seu Pimenta recebeu uma proposta para preparar um banquete para um
 Seu Pimenta consultou o depósito e verificou que existiam números diferentes de garfos , facas e colheres. Para maximizar a quantidade de pessoas que conseguirão jantar, Seu Pimenta estabeleceu que cada pessoa seria capaz de jantar se possuísse um par de garfo e faca, ou uma colher. Ajude Seu Pimenta e elabore uma função chamada quantosJantam(n, g, f, c) que calcule a maior quantidade possível de pessoas presentes no banquete que conseguiriam jantar de acordo com a estratégia proposta.
 
 * Entrada
-Os parâmetros da função são quatro inteiros **_n_**, **_g_**, **_f_**, **_c_** ≥ 0 indicando, respectivamente, a quantidade de pessoas existentes no banquete, a quantidade de garfos, a quantidade de facas e a quantidade de colheres.
+Os parâmetros da função são quatro inteiros **_n_**, **_g_**, **_f_**, **_c_** ≥ **0** indicando, respectivamente, a quantidade de pessoas existentes no banquete, a quantidade de garfos, a quantidade de facas e a quantidade de colheres.
 
 * Saída
 Imprima um valor inteiro indicando a maior quantidade possível de pessoas presentes no banquete que conseguirão jantar.
