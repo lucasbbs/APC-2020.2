@@ -21,3 +21,13 @@ Particularidade do Tópico
 Atenção, a criação de uma função com o nome determinado pelo enunciado é fundamental para a prática do aluno e o Moodle irá descontar pontos, por esse critério, caso a criação não tenha sido feita corretamente (sendo case-sensitive o nome da função).
 
 * For example:
+
+Input|Expected
+-----|--------
+4|4<br>2<br>1
+5|5<br>16<br>8<br>4<br>2<br>1
+7|7<br>22<br>11<br>34<br>17<br>52<br>26<br>13<br>40<br>20<br>10<br>5<br>16<br>8<br>4<br>2<br>1
+1|1
+3|3<br>10<br>5<br>16<br>8<br>4<br>2<br>1
+6|6<br>3<br>10<br>5<br>16<br>8<br>4<br>2<br>1
+
