@@ -1,7 +1,7 @@
 # Divisão por Zero
 Em épocas de aulas remotas, o professor Marco, que é muito solícito e brincalhão, estava ensinando a seus alunos sobre divisão de inteiros e recebeu a seguinte pergunta:
 
-<pre>prof, pq não da pra dividir por zero
+<pre>prof, pq não da pra dividir por zero?
 
 porque aí eu te quebro na porrada
 kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk</pre>
