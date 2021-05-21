@@ -3,7 +3,7 @@ Seu amigo Paco está fazendo a matéria Ultimate Frisbee. Ele achou que seria um
 
 ![equation](http://www.sciweavers.org/tex2img.php?eq=media%5C_final%20%3D%20%20%5Cfrac%7Bn_1%20%20%20p_1%20%2B%20n_2%20%20%20p_2%20%2B%20n_3%20%20p_3%7D%7Bp_1%20%2B%20p_2%20%2B%20p_3%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
 
-onde ni, é a nota na iésima nota, que tem peso pi.
+onde **_nᵢ_**, é a nota na iésima nota, que tem peso pi.
 
 Ele já fez 2 das 3 provas, e pediu sua ajuda para descobrir quanto precisa tirar na terceira para conseguir a menção que gostaria. Faça uma função nota que vai retornar quanto Paco precisa tirar na terceira prova.
 
