@@ -3,3 +3,6 @@ def sinuquera(n):
       return n//2 - 1
     else:
       return n//2  
+
+# def sinuquera(n):
+#     return (n-1)//2
