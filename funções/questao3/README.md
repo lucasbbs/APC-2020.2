@@ -13,3 +13,12 @@ Imprima em uma única linha o sucessor de a.
 Submeta somente o que foi solicitado.
 Não é necessário validar se os números estão dentro do intervalo definido.
 * For example:
+
+Input|Expected
+-----|--------
+sucessor(1)|2
+sucessor(-4)|-3
+sucessor(0)|1
+sucessor(45612)|45613
+sucessor(-8889)|-8888
+sucessor(919)|920
