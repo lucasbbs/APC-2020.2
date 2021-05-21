@@ -1,5 +1,5 @@
 #Existe realidade?
-Implemente a função chamada realidade que imprime se uma equação de segundo grau  _a x_²+b _x_ + _c_ = 0 tem raízes reais ou complexas. A função deve receber os parâmetros _a_, _b_, e _c_ que são números inteiros. 
+Implemente a função chamada realidade que imprime se uma equação de segundo grau  _a_ _x_²+ _b_ _x_ + _c_ = 0 tem raízes reais ou complexas. A função deve receber os parâmetros _a_, _b_, e _c_ que são números inteiros. 
 
 * Entrada
 Os parâmetros da função são três inteiros a,b,c.
