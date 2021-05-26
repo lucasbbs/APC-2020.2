@@ -6,7 +6,7 @@ Se existem 7 jogadores de um time, um do lado do outro, então a situação é c
 Determine para qual time a situação é favorável.
 
 * Entrada
-A primeira linha de entrada contém uma palavra s - uma palavra com apenas "0"s e "1s"  com comprimento entre 1 e 100. Existe pelo menos um jogador de cada time no campo.
+A primeira linha de entrada contém uma palavra s - uma palavra com apenas "0"s e "1s"  com comprimento entre **1** e **100**. Existe pelo menos um jogador de cada time no campo.
 
 
 * Saída
