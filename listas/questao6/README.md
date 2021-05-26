@@ -1,4 +1,4 @@
-Prefix Sum
+# Prefix Sum
 Um conceito muito utilizado na Computação é o de soma de prefixos ou prefix sum. O prefix sum é um vetor que possui a soma cumulativa dos valores de um outro vetor, da seguinte forma: dada uma sequência de números **_x_ ₁, _x_ ₂, _x_ ₃, …, _x_ ₙ**, pode-se obter uma segunda sequência de números **_y_ ₁, _y_ ₂, _y_ ₃, …, _y_ ₙ**, conhecida como somas de prefixos, que são dadas pelo seguinte:
 
 **_y_ ₁= _x_ ₁**
