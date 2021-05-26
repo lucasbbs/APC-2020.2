@@ -22,6 +22,7 @@ No primeiro caso de teste, a média dos valores da lista é ( 16 + 24 + 30)/3 = 
 * For example:
 
 |Input|Result|
+-|-
 |16 24 20|20.0<br>3.3|
 |-85 77 44 -12|6.0<br>61.4|
 |-12 -87 -86 -90 -34 -94 -97 -36 79|-50.8<br>54.7|
