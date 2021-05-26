@@ -9,13 +9,13 @@ A segunda linha contém **_n_** inteiros separados por espaço. Esses números n
 
 * Saída
 
-Imprima "sim"  (sem aspas duplas) caso exista algum par de números cuja soma é 42. Imprima "nao" (sem aspas duplas) caso contrário.
+Imprima "**sim**"  (sem aspas duplas) caso exista algum par de números cuja soma é 42. Imprima "**nao**" (sem aspas duplas) caso contrário.
 
 * Observações
 
-No primeiro caso de teste, temos os números 20 e 22, cuja soma é 42, então imprimimos sim.
+No primeiro caso de teste, temos os números 20 e 22, cuja soma é 42, então imprimimos **sim**.
 
-No segundo caso de teste, não existe nenhum par de números cuja soma é 42, então o resultado é nao.
+No segundo caso de teste, não existe nenhum par de números cuja soma é 42, então o resultado é **nao**.
 
 * For example:
 
