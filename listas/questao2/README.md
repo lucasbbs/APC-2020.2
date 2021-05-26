@@ -5,23 +5,22 @@ Na escola, nós aprendemos a determinar se um par de vetores bi ou tridimensiona
  **_u_ ⋅ _v_ = _xᵤ_ ⋅ _xᵥ_ + _yᵤ_ ⋅ _yᵥ_**     (para 2 dimensões - bidimensionais) ou
 **_u_ ⋅ _v_ = _xᵤ_ ⋅ _xᵥ_ + _yᵤ_ ⋅ _yᵥ_  + _zᵤ_ ⋅ _zᵥ_**     (para 3 dimensões - tridimensionais)
 
-
 Dois vetores **_u_** e **_v_** são ortogonais se, e somente se, **_u_ ⋅ _v_ = 0**. Neste problema, você deve determinar se um dado par de vetores **_n_**-dimensionais **_u_** e **_v_** é ortogonal.
 
-
-
 * Entrada
-A primeira linha da entrada contém um único inteiro n  ( 1≤n≤105 ), que indica a dimensão dos vetores a serem lidos, ou seja, o número de coordenadas cartesianas de um vetor.
+A primeira linha da entrada contém um único inteiro **_n_ ( 1 ≤ _n_ ≤ 10⁵)**, que indica a dimensão dos vetores a serem lidos, ou seja, o número de coordenadas cartesianas de um vetor.
 
-A segunda linha contém n inteiros ui (−100≤ui≤100) separados por espaço, que são as n coordenadas do vetor u.
+A segunda linha contém _n_ inteiros **_uᵢ_ (−100 ≤ _uᵢ_ ≤ 100)** separados por espaço, que são as _n_ coordenadas do vetor _u_.
 
-A terceira linha contém n inteiros vi (−100≤vi≤100) separados por espaço, que são as n coordenadas do vetor v.
+A terceira linha contém _n_ inteiros **_vᵢ_ (−100 ≤ _vᵢ_ ≤ 100)** separados por espaço, que são as _n_ coordenadas do vetor _v_.
 
 * Saída
-Se os vetores u e v forem ortogonais, imprima a mensagem "ortogonais" (sem aspas duplas). Caso contrário, imprima o valor do produto interno euclidiano entre eles.
+Se os vetores **_u_** e **_v_** forem ortogonais, imprima a mensagem "ortogonais" (sem aspas duplas). Caso contrário, imprima o valor do produto interno euclidiano entre eles.
 
 * Observação
-Para ler as n coordenadas de um vetor em uma única linha, basta utilizar o seguinte código: vet = list(map(int,input().strip().split()))[:n]
+
+Para ler as n coordenadas de um vetor em uma única linha, basta utilizar o seguinte código: <pre>vet = list(map(int,input().strip().split()))[:n]</pre>
+
 No primeiro caso de teste, os vetores são ortogonais pois (-3)*1 + (-4)*1 + 2*1 + 5*1 = 0.
 
 * For example:
@@ -33,4 +32,4 @@ No primeiro caso de teste, os vetores são ortogonais pois (-3)*1 + (-4)*1 + 2*1
 |8<br>1 0 1 0 1 0 1 0<br>0 1 0 1 0 1 0 1|ortogonais|
 |3<br>2 -2 1<br>3 2 -2|ortogonais|
 |2<br>1 7<br>2 -3|-19|
-|1<br>1<br>-2|-2
+|1<br>1<br>-2|-2|
