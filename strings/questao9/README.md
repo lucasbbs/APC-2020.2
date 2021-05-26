@@ -11,7 +11,7 @@ Você conseguiu o mapa 1D do Geraldo, contendo o posicionamento de todos os seus
 
 Entrada
 
-A entrada consiste de uma string _s_ = _s_ ₁, _s_ ₂, … _s_ ₙ **(1 ≤ _n_ ≤ 5×10²)** representando o mapa unidimensional do Geraldo, em que _sᵢ_ = '.' indica água e _sᵢ_ = 'o' indica que nessa região existe um navio, ou parte dele. É garantido que Geraldo tenha posicionado pelo menos um navio no seu mapa.
+A entrada consiste de uma string **_s_ = _s_ ₁, _s_ ₂, … _s_ ₙ** **(1 ≤ _n_ ≤ 5×10²)** representando o mapa unidimensional do Geraldo, em que **_sᵢ_** = '.' indica água e **_sᵢ_** = 'o' indica que nessa região existe um navio, ou parte dele. É garantido que Geraldo tenha posicionado pelo menos um navio no seu mapa.
 
 
 Saída
