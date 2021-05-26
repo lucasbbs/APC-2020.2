@@ -18,4 +18,4 @@ Imprima um único inteiro indicando o número de problemas que os amigos vão im
 |1<br>1 0 0|0|
 |5<br>1 0 0<br>0 1 0<br>1 1 1<br>0 0 1<br>0 0 0|1|
 |10<br>0 1 0<br>0 1 0<br>1 1 0<br>1 0 0<br>0 0 1<br>0 1 1<br>1 1 1<br>1 1 0<br>0 0 0<br>0 0 0|4|
-|50<br>0 0 0<br>0 1 1<br>1 1 1<br>0 1 0<br>1 0 1<br>1 1 1<br>0 0 1<br>1 0 0<br>1 1 0<br>1 0 1<br>0 1 0<br>0 0 1<br>1 1 0<br>0 1 0<br>1 1 0<br>0 0 0<br>1 1 1<br>1 0 1<br>0 0 1<br>1 1 0<br>1 1 1<br>0 1 1<br>1 1 0<br>0 0 0<br>0 0 0<br>1 1 1<br>0 0 0<br>1 1 1<br>0 1 1<br>0 0 1<br>0 0 0<br>0 0 0<br>1 1 0<br>1 1 0<br>1 0 1<br>1 0 0<br>1 0 1<br>1 0 1<br>0 1 1<br>1 1 0<br>1 1 00 1 0<br>1 0 1<br>0 0 0<br>0 0 0<br>0 0 0<br>0 0 1<br>1 1 1<br>0 1 1<br>1 0 1|29|
+|50<br>0 0 0<br>0 1 1<br>1 1 1<br>0 1 0<br>1 0 1<br>1 1 1<br>0 0 1<br>1 0 0<br>1 1 0<br>1 0 1<br>0 1 0<br>0 0 1<br>1 1 0<br>0 1 0<br>1 1 0<br>0 0 0<br>1 1 1<br>1 0 1<br>0 0 1<br>1 1 0<br>1 1 1<br>0 1 1<br>1 1 0<br>0 0 0<br>0 0 0<br>1 1 1<br>0 0 0<br>1 1 1<br>0 1 1<br>0 0 1<br>0 0 0<br>0 0 0<br>1 1 0<br>1 1 0<br>1 0 1<br>1 0 0<br>1 0 1<br>1 0 1<br>0 1 1<br>1 1 0<br>1 1 0<br>0 1 0<br>1 0 1<br>0 0 0<br>0 0 0<br>0 0 0<br>0 0 1<br>1 1 1<br>0 1 1<br>1 0 1|29|
