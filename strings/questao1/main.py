@@ -6,20 +6,20 @@ for n in range(N):
   row = row[row.find("1")::]
   print(row.count('0') if row != '0' else '0')
 
-n = int(input())
-for i in range(n):
-    s = input()
-    stored = 0
-    cnt = 0
-    active = False
-    for c in s:
-        if c == '1':
-            stored += cnt
-            cnt = 0
-            active = True
-        elif active:
-            cnt += 1
-    print(stored)
+#n = int(input())
+#for i in range(n):
+#    s = input()
+#    stored = 0
+#    cnt = 0
+#    active = False
+#    for c in s:
+#        if c == '1':
+#            stored += cnt
+#            cnt = 0
+#            active = True
+#        elif active:
+#            cnt += 1
+#    print(stored)
 
 # Solucao alternativa: Vinicius
 #n = int(input())
